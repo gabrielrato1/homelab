@@ -87,6 +87,13 @@ services:
 ```
 As you can see you can use gluetun with other services, maybe a day I'll configure they all under gluetun but today is not this day :) 
 
+This is how you can install Jellyfin to your samsumg tv: https://www.youtube.com/watch?v=EdyomeubKQg&t=555s&ab_channel=SnowappixTV
+
+## References
+https://github.com/pi-hosted/pi-hosted?tab=readme-ov-file 
+https://www.youtube.com/watch?v=He4j1QE8XsM&ab_channel=BarmineTech
+https://www.youtube.com/watch?v=EdyomeubKQg&t=555s&ab_channel=SnowappixTV
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
